@@ -7,6 +7,7 @@ namespace MonkeyFestWorkshop.Core.DependencyInjection
     {
         protected override void Load(ContainerBuilder builder)
         {
+
             base.Load(builder);
         }
     }
